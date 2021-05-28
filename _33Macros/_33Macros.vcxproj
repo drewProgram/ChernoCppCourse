@@ -24,6 +24,7 @@
     <ProjectGuid>{a472da6f-90c5-4d8e-ad05-393a05a27d6d}</ProjectGuid>
     <RootNamespace>My35Macros</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>_33Macros</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
