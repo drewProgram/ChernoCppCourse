@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_34Auto", "_34Auto\_34Auto.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_36FunctionPointers", "_36FunctionPointers\_36FunctionPointers.vcxproj", "{6FBD5090-51F8-4027-81D6-915BFFEC45B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_37LambdaFunctions", "_37LambdaFunctions\_37LambdaFunctions.vcxproj", "{BA996C63-8332-4B0B-A2BF-A5D513238104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{6FBD5090-51F8-4027-81D6-915BFFEC45B1}.Release|x64.Build.0 = Release|x64
 		{6FBD5090-51F8-4027-81D6-915BFFEC45B1}.Release|x86.ActiveCfg = Release|Win32
 		{6FBD5090-51F8-4027-81D6-915BFFEC45B1}.Release|x86.Build.0 = Release|Win32
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Debug|x64.ActiveCfg = Debug|x64
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Debug|x64.Build.0 = Debug|x64
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Debug|x86.Build.0 = Debug|Win32
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Release|x64.ActiveCfg = Release|x64
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Release|x64.Build.0 = Release|x64
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Release|x86.ActiveCfg = Release|Win32
+		{BA996C63-8332-4B0B-A2BF-A5D513238104}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
