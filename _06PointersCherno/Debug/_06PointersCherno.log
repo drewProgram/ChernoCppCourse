@@ -1,2 +1,2 @@
 ﻿  Main.cpp
-D:\Development\cpp\Course\_06PointersCherno\src\Main.cpp(17,9): error C2040: 'ptr': 'char **' differs in levels of indirection from 'int *'
+  _06PointersCherno.vcxproj -> C:\development\cpp\ChernoCppCourse\Debug\_06PointersCherno.exe
